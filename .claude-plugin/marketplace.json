@@ -1,0 +1,11 @@
+{
+  "name": "spectra-marketplace",
+  "owner": { "name": "SpectraPH" },
+  "plugins": [
+    {
+      "name": "spectra-skills",
+      "source": "./",
+      "description": "Personal collection of Claude Code skills"
+    }
+  ]
+}

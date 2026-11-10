@@ -1,0 +1,7 @@
+{
+  "name": "spectra-skills",
+  "description": "Personal collection of Claude Code skills",
+  "version": "1.0.0",
+  "author": { "name": "SpectraPH" },
+  "repository": "https://github.com/SpectraPH/claude-skills"
+}
